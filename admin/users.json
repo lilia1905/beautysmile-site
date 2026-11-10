@@ -1,0 +1,34 @@
+[
+  {
+    "id": "admin_001",
+    "username": "admin",
+    "password": "admin2026",
+    "name": "Администратор",
+    "role": "admin",
+    "created": "02.11.2026"
+  },
+  {
+    "id": "manager_001",
+    "username": "manager",
+    "password": "manager2026",
+    "name": "Менеджер клиники",
+    "role": "manager",
+    "created": "02.11.2026"
+  },
+  {
+    "id": "doctor_001",
+    "username": "doctor",
+    "password": "doctor2026",
+    "name": "Доктор",
+    "role": "doctor",
+    "created": "02.11.2026"
+  },
+  {
+    "id": "editor_001",
+    "username": "editor",
+    "password": "editor2026",
+    "name": "Редактор",
+    "role": "editor",
+    "created": "02.11.2026"
+  }
+]
